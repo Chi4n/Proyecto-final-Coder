@@ -1,0 +1,147 @@
+@media screen and (max-width: 500px){
+
+  .body{
+    justify-content: center;
+    height: initial;
+    height: 100vh;
+    float: left;
+    margin:auto;
+    position: relative;
+  }
+
+  .header{
+    margin: auto;
+    align-items: center;
+    height: 90px;
+  }
+ 
+  .logo{
+    display: grid;
+    height: 70px;
+    margin-right: 0px;
+  }
+
+  .navmenu{
+   display: grid;
+   padding: 0px;
+   height: 90px;
+  }
+
+  .collapse{
+    border-radius: 30px;
+     
+     
+     
+  }
+
+  .collapse a{
+    color: #979090;
+    font-size: 11px;
+    
+    
+     
+  }
+
+  .collapse a:hover{
+    color: #ffffff8a;
+ 
+  }
+
+  .mexplorar{
+    margin: auto;
+  }
+
+  .h1explorar{
+    font-size: 20px;
+    text-align: center;
+  }
+
+  .buscarexplore{
+    margin: auto;
+    width: 200px;
+     
+  }
+
+  .segundomenu{
+    margin: auto;
+    height: 30px;
+  }
+
+  .ulexplorar{
+    text-align: center;
+    padding: 10px auto;
+    width: 100%;
+     
+  }
+ 
+  .ulexplorar .itemexplorar{
+    padding: 5px;
+    font-size: 10px;
+    text-align: center;
+    margin: auto;
+  }
+
+  .fexplorar{
+    background-color: #07070700;
+    height: 100%;
+  }
+    
+  .redesexplorar{
+    margin: auto;
+    height: 45px;
+    position: absolute;
+     
+  }
+
+  .copye{
+    color: #070707;
+    display: grid;
+    font-size: 10px;
+    margin: auto;
+    position: relative;
+    left: 5px;
+    bottom: 10px;
+    width: 50%;
+    padding: 15px;
+  }
+ 
+  .login-p{
+    background: fixed;
+  }
+
+  .login-p h1{
+    color: #f9f9fa;
+  }
+
+  .img_main{
+    height: 100px;
+    position: relative;
+    margin: auto;
+  }
+ 
+  .animate__hinge:hover{
+   animation: none;
+     
+  }
+  .mainc{
+    background-color: #9c3434e0;
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    margin:0 auto;
+  }
+
+  .copyc{
+    display: flex;
+    text-align: center;
+    margin: auto;
+    width: 100%;
+
+  }
+  
+
+    
+     
+ 
+ 
+} 
