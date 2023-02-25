@@ -925,6 +925,7 @@ h2{
     width: 400px;
     margin: auto;
     border-radius: 30px;
+    padding: 10px auto;
 
 }
 .th1{
@@ -1100,6 +1101,15 @@ h2{
     margin: auto;
 
   }
+  .container_404{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    padding: 10px auto;
+    height: 40px;
+  }
+
 
     
 
