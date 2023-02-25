@@ -285,7 +285,8 @@ footer {
     transition-duration: 0.3s; }
     .login-p .usuario::placeholder {
       color: black;
-      font-family: 'Inter', sans-serif; }
+      font-family: 'Inter', sans-serif;
+      padding: 10px; }
     .login-p .usuario:hover, .login-p .usuario:focus, .login-p .usuario:active {
       box-shadow: 0 0 5px rgba(202, 198, 193, 0.384);
       color: black; }
@@ -301,7 +302,8 @@ footer {
     transition-duration: 0.3s; }
     .login-p .contra::placeholder {
       color: black;
-      font-family: 'Inter', sans-serif; }
+      font-family: 'Inter', sans-serif;
+      padding: 10px; }
     .login-p .contra:hover, .login-p .contra:focus, .login-p .contra:active {
       box-shadow: 0 0 5px rgba(202, 198, 193, 0.384);
       color: black; }
