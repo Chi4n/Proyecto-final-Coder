@@ -896,6 +896,86 @@ h2{
     background-color: #aa9d9d00;
     width: 100%;
 }
+/*fin subir*/
+
+/*404*/
+.Error{
+    margin: 0;
+    padding: 0;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-image: url(../img/fondo\ de\ error404.jpg);
+    
+}
+.container_404{
+    background-color: rgba(250, 235, 215, 0);
+    height: 800px;
+    width: 100%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+
+    
+}
+.th2{
+    background-color: rgba(149, 153, 129, 0);
+    font-size: 50px;
+    color: #000000;
+    text-align: center;
+    width: 400px;
+    margin: auto;
+    border-radius: 30px;
+
+}
+.th1{
+    background-image:url(../img/error404.jpg) ;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 500px;
+    background-color: black;
+    color: rgba(240, 248, 255, 0.199);
+    border-radius: 40px;
+    width: 900px;
+    margin: auto;
+    border: none;
+}
+
+
+.ttbutton{
+    background-color: rgba(169, 175, 132, 0.589);
+    width: 200px;
+    margin: auto;
+    height: 50px;
+    border-radius: 30px;
+    display: flex;
+    
+    
+}
+.ttbutton:hover{
+    background-color: rgba(250, 235, 215, 0.596);
+    transition: 1s;
+}
+
+.tbutton{
+   margin: auto;
+   text-align: center;
+   color: rgb(0, 0, 0);
+   text-decoration: none;
+   padding: 10px auto;
+   font-size: 20px;
+}
+
+.tbutton:hover{
+    font-size: none;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+.tbutton a:hover{
+    font-size: none;
+}
+/*fin error*/
 
 
 
